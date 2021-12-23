@@ -1,7 +1,7 @@
-## Django REST API for an e-commerce website with payment integration.
+django rest framework for bakery
 
----
-
-<img src="appd.png" alt="drawing"/>
-
----
+api/user - gset list of user after login
+api/product - list of product
+api/order- to get order of user
+api/ api-token-auth/ - for authorization
+/admin- for admin panel
